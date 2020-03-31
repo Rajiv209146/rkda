@@ -1,3 +1,4 @@
 Guidelines for Code check-in and commands for maven build.
 
-JavaDocs
+SlingAPI
+https://sling.apache.org/apidocs/sling8/
