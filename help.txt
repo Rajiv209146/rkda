@@ -1,0 +1,1 @@
+Guidelines for Code check-in and commands for maven build.
